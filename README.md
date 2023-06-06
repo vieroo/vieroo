@@ -1,7 +1,7 @@
 ### Olá! Eu sou Eduardo Viero
 
-- 🔭 Cursando Técnico em Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS e C
+- 🔭 Cursando Sistemas de Informação
+- 🌱 Estudando Javascript
 
 <div align="center">
   <a href="https://github.com/vieroo">
