@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vieroo&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8cff00&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vieroo&bg_color=0d1117&color=c9d1d9&line=8a2be2&point=8cff00&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vieroo&bg_color=0d1117&color=c9d1d9&line=8a2be2&point=8cff00&area=true&hide_border=true)
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
