@@ -30,6 +30,9 @@
     <a href="mailto:duduviero@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>  
 
-![snake gif](https://github.com/vieroo/vieroo/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/vieroo/vieroo/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vieroo&repo=vieroo&theme=react)](https://github.com/vieroo/vieroo)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
