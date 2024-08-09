@@ -30,4 +30,6 @@
     <a href="mailto:duduviero@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>  
 
+![snake gif](https://github.com/vieroo/vieroo/blob/output/github-contribution-grid-snake-dark.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
