@@ -18,14 +18,14 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgresql-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
+### Studying in this moment:
+![Golang](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
-![Golang](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Social Medias
  <div>
