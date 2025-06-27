@@ -1,12 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8cff00&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
 ---
-
-## 👋 Welcome to my GitHub profile!
-
 ### 📌 About Me
 
-Hi! My name is **Eduardo Vidal Viero**, I'm **24 years old**, and I'm from **Santa Catarina, Brazil**.  
+Hi! My name is **Eduardo Vidal Viero**, I'm **25 years old**, and I'm from **Santa Catarina, Brasil**.  
 I'm a **fullstack developer** focused on backend technologies like **Node.js**, **Python**, and **PostgreSQL**, and frontend using **React** and **Next.js**.
 
 Currently, I work on **modernizing legacy systems**, building **API integrations**, and automating processes with **BotCity**.  
